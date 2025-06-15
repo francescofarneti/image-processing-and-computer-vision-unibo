@@ -1,1 +1,1 @@
-assignments anno 2023-2024
+assignments a.y. 2023-2024
