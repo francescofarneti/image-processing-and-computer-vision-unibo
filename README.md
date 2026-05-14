@@ -2,16 +2,6 @@
 
 # 🛒 Computer Vision assignment 1 — Product Detection on Store Shelves
  
-## Overview
- 
-Computer vision-based object detection techniques can be applied in supermarket settings to build a system capable of identifying products on store shelves. This system could be used to:
- 
-- Assist **visually impaired customers** in navigating the store;
-- Automate common **store management tasks**, such as detecting low-stock or misplaced products.
-Given a reference image for each product, the system must identify such products from a single picture of a store shelf.
- 
----
- 
 ## Task Description
  
 Develop a computer vision system that, given:
@@ -119,14 +109,6 @@ The system will be evaluated based on:
 - ✅ Precision of bounding box localization (IoU with ground truth);
 - ✅ Ability to handle multiple instances of the same product (Track B);
 - ✅ Robustness to image noise present in the scene images.
----
- 
-## Deliverables
- 
-- [ ] Source code of the detection system;
-- [ ] Brief report describing the chosen approach and methodology;
-- [ ] Output results for all scenes (Tracks A and B) in the specified format;
-- [ ] (Optional) Visualizations of detections overlaid on scene images.
 ---
  
 ## Notes
